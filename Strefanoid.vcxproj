@@ -98,6 +98,9 @@
     <EmbeddedResource Include="autor.resx">
       <DependentUpon>autor.h</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="gra.resx">
+      <DependentUpon>gra.h</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Powitanie.resx">
       <DependentUpon>Powitanie.h</DependentUpon>
     </EmbeddedResource>

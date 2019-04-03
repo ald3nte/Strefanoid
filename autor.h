@@ -37,6 +37,7 @@ namespace Strefanoid {
 	private: System::Windows::Forms::Label^  label1;
 	private: System::Windows::Forms::PictureBox^  pictureBox1;
 	private: System::Windows::Forms::Button^  button1;
+
 	protected:
 
 	private:
@@ -100,7 +101,7 @@ namespace Strefanoid {
 			// 
 			this->AutoScaleDimensions = System::Drawing::SizeF(6, 13);
 			this->AutoScaleMode = System::Windows::Forms::AutoScaleMode::Font;
-			this->ClientSize = System::Drawing::Size(284, 261);
+			this->ClientSize = System::Drawing::Size(307, 261);
 			this->Controls->Add(this->button1);
 			this->Controls->Add(this->pictureBox1);
 			this->Controls->Add(this->label1);
